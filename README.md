@@ -1,7 +1,9 @@
 
 [![Build Status](https://travis-ci.org/martinkersner/gtop.svg?branch=master)](https://travis-ci.org/marmtinkersner/gtop)
 
+## Fork changes
 gtop fork with quick fix for Jetson TX2.
+
 Requires: Jetson TX2 running JetPack 3.2 with L4T R28.2
 
 # gtop
