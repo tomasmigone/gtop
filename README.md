@@ -1,6 +1,8 @@
 
 [![Build Status](https://travis-ci.org/martinkersner/gtop.svg?branch=master)](https://travis-ci.org/marmtinkersner/gtop)
 
+gtop fork with quick fix for Jetson TX2
+
 # gtop
 Martin Kersner, <m.kersner@gmail.com>, 2017
 
